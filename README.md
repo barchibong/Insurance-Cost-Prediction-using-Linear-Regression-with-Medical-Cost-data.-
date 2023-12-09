@@ -1,5 +1,9 @@
 
-This project utilizes a dataset sourced from Kaggle, containing medical costs personal datasets in JSON format. The dataset comprises columns such as age, BMI, children, smoker status, charges, sex, and region. The primary objective is to predict insurance costs through linear regression analysis.
+This project utilizes a dataset sourced from Kaggle, containing medical costs personal datasets in JSON format. The dataset comprises columns such as age, BMI, children, smoker status, charges, sex, and region![Correlation heat map](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/assets/144898284/5c49ed19-0456-498a-afa6-057fbf17f788)
+![Box plot](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/assets/144898284/da54adc0-15a9-40ad-9913-edafdfc2ac3c)
+![Clustering](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/assets/144898284/e951bfbb-9e16-412c-a31b-9b34280c3831)
+![Regression line](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/assets/144898284/6aa91000-6215-4776-8e09-d490e8ce4261)
+. The primary objective is to predict insurance costs through linear regression analysis.
 
 Research Questions:
 1. What is the relationship between Age and Charges? Are older individuals more likely to incur higher medical charges compared to younger individuals?
