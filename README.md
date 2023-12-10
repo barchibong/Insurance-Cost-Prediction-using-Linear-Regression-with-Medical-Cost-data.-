@@ -12,6 +12,8 @@ Research Questions:
 Variables:
 - Dependent Variable: Charges
 - Independent Variables: Age, BMI
+[geoJSON_us_regions.json](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/files/13626662/geoJSON_us_regions.json)
+[insurance.csv](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/files/13626661/insurance.csv)
 
 Findings:
 The correlation coefficient between charge and age is 0.3, indicating a moderate positive correlation. This suggests that older individuals tend to have higher medical charges compared to younger ones (Research Hypothesis 1).
