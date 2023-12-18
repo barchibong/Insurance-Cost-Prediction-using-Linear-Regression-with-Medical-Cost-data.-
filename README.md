@@ -1,3 +1,4 @@
+[Final Data Immersion Project.pdf](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/files/13703218/Final.Data.Immersion.Project.pdf)
 
 This project utilizes a dataset sourced from Kaggle, containing medical costs personal datasets in JSON format. The dataset comprises columns such as age, BMI, children, smoker status, charges, sex, and region![Correlation heat map](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/assets/144898284/5c49ed19-0456-498a-afa6-057fbf17f788)
 ![Box plot](https://github.com/barchibong/Insurance-Cost-Prediction-using-Linear-Regression-with-Medical-Cost-data.-/assets/144898284/da54adc0-15a9-40ad-9913-edafdfc2ac3c)
